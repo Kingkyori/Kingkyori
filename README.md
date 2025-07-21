@@ -5,11 +5,19 @@
 ---
 
 ### ✨ Let's Connect!
+
 <p align="center">
-  <a href="https://www.kannohouse.site" target="_blank">🌐 Website</a> • 
-  <a href="mailto:azusibabu@gmail.com">📧 Email</a> • 
-  <a href="https://www.instagram.com/Fikurii_" target="_blank">🎨 Instagram</a>
+  <a href="https://www.kannohouse.site" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Website-Kannohouse-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:azusibabu@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Email-Contact-lightgrey?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://instagram.com/Fikurii_" target="_blank">
+    <img src="https://img.shields.io/badge/🎨 Instagram-Fikurii_-pink?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
+
 
 ---
 
