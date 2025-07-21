@@ -67,7 +67,6 @@
 
 ---
 
-### 📈 GitHub Stats
 
 ### 📊 GitHub Stats
 
@@ -91,7 +90,7 @@
 ### 🌟 Fun Facts
 
 - ✨ Ngoding sambil dengerin Jpop vibes  
-- 🎮 Suka elemen visual pixel & gaya retro UI  
+- 🎮 santai dulu sebelum dibantai  
 - 🍵 Ngeteh dulu sebelum push ke `main` 😄
 
 ---
