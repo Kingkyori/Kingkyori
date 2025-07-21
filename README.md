@@ -31,26 +31,39 @@
 
 ### 📌 Projects (with a pixel spark!)
 
-<table align="center">
+<div align="center">
+
+<table>
   <thead>
     <tr>
-      <th align="center">📱 Mobile & Web</th>
-      <th align="center">🧪 Experiments</th>
+      <th>📱 Mobile & Web</th>
+      <th>🧪 Experiments</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        🔹 <a href="https://github.com/Kingkyori/mbadog-food">Mbadog Food</a> — Laravel food marketplace<br/>
-        🔹 <a href="https://github.com/Kingkyori/homescreen">Homescreen</a> — Flutter UI e-commerce
+      <td align="left">
+        <a href="https://github.com/Kingkyori/mbadog-food">
+          <img src="https://img.shields.io/badge/Mbadog%20Food-Laravel%20marketplace-FF6F61?style=flat-square&logo=laravel&logoColor=white" />
+        </a><br/>
+        <a href="https://github.com/Kingkyori/homescreen">
+          <img src="https://img.shields.io/badge/Homescreen-Flutter%20UI%20App-55c2da?style=flat-square&logo=flutter&logoColor=white" />
+        </a>
       </td>
-      <td>
-        🔹 <a href="https://github.com/Kingkyori/codinganget">codinganget</a> — C++ Practice<br/>
-        🔹 <a href="https://github.com/Kingkyori/navigation">navigation</a> — C++ Routes
+      <td align="left">
+        <a href="https://github.com/Kingkyori/codinganget">
+          <img src="https://img.shields.io/badge/codinganget-C%2B%2B%20Practice-4479A1?style=flat-square&logo=cpp&logoColor=white" />
+        </a><br/>
+        <a href="https://github.com/Kingkyori/navigation">
+          <img src="https://img.shields.io/badge/navigation-C%2B%2B%20Routes-708090?style=flat-square&logo=code&logoColor=white" />
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
+
+</div>
+
 
 ---
 
