@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">✨ Let's Connect!</h3>
+### ✨ Let's Connect!
 <p align="center">
   <a href="https://www.kannohouse.site" target="_blank">🌐 Website</a> • 
   <a href="mailto:azusibabu@gmail.com">📧 Email</a> • 
@@ -54,9 +54,12 @@
 
 ---
 
-### 💫 Visitor Badge & Pixel Footer
+### 💫 Visitor Count & Wave Footer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kingkyori&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Kingkyori Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=100&section=footer"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Kingkyori&left_color=purple&right_color=pink"/>
 </p>
