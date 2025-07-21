@@ -19,14 +19,14 @@
 ---
 
 ### 🌈 Tech Playground
-<p align="center">
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js)
 ![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma)
-</p>
+
 ---
 
 ### 📌 Projects (with a pixel spark!)
@@ -69,9 +69,21 @@
 
 ### 📈 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingkyori&show_icons=true&theme=merko&hide_title=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingkyori&layout=compact&theme=merko" width="47%"/>
+  <!--🔥 Streak Activity (like animated bar chart effect) -->
+  <img src="https://streak-stats.demolab.com?user=Kingkyori&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!--🍩 Donut Chart: Language Usage-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingkyori&layout=donut-vertical&theme=radical&hide_border=false" alt="Top Languages Donut Chart" />
+</p>
+
+<p align="center">
+  <!--📦 Repo Contributions Summary-->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingkyori&show_icons=true&theme=radical&hide_border=false&count_private=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 ---
