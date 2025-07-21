@@ -13,9 +13,6 @@
   <a href="mailto:azusibabu@gmail.com">
     <img src="https://img.shields.io/badge/📩 Email-Contact-lightgrey?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://instagram.com/Fikurii_" target="_blank">
-    <img src="https://img.shields.io/badge/🎨 Instagram-Fikurii_-pink?style=for-the-badge&logo=instagram" />
-  </a>
 </p>
 
 
@@ -34,10 +31,26 @@
 
 ### 📌 Projects (with a pixel spark!)
 
-| <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="20"/> Mobile & Web | <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="20"/> Experiments |
-|------------------|------------------------|
-| 🔹 [Mbadog Food](https://github.com/Kingkyori/mbadog-food) — Laravel food marketplace | 🔹 [codinganget](https://github.com/Kingkyori/codinganget) — C++ Practice |
-| 🔹 [Homescreen](https://github.com/Kingkyori/homescreen) — Flutter UI e-commerce | 🔹 [navigation](https://github.com/Kingkyori/navigation) — C++ Routes |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">📱 Mobile & Web</th>
+      <th align="center">🧪 Experiments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🔹 <a href="https://github.com/Kingkyori/mbadog-food">Mbadog Food</a> — Laravel food marketplace<br/>
+        🔹 <a href="https://github.com/Kingkyori/homescreen">Homescreen</a> — Flutter UI e-commerce
+      </td>
+      <td>
+        🔹 <a href="https://github.com/Kingkyori/codinganget">codinganget</a> — C++ Practice<br/>
+        🔹 <a href="https://github.com/Kingkyori/navigation">navigation</a> — C++ Routes
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
