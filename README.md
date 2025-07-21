@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Kyori+%F0%9F%91%8B;Frontend+Dev+%7C+UI%2FUX+Enthusiast;Crafting+clean+designs+%F0%9F%8C%B1;Powered+by+tea+and+pixel+dreams" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="120" height="20">
-</p>
-
 ---
 
 ### ✨ Let's Connect!
