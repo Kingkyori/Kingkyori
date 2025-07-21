@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Kyori! 👋
 
-<!--
-**Kingkyori/Kingkyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer and UI/UX enthusiast passionate about building modern, clean, and user-friendly applications.
 
-Here are some ideas to get you started:
+🎨 [Visit My Portfolio Website](https://www.kannohouse.site)  
+📫 Reach me at: [azusibabu@gmail.com](mailto:azusibabu@gmail.com)  
+🧠 Currently Learning: Flutter, Laravel, Supabase, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 My Projects
+
+- 🔧 [Mbadog Food](https://github.com/Kingkyori/mbadog-food): Laravel-based food marketplace
+- 📱 [Homescreen](https://github.com/Kingkyori/homescreen): Flutter UI e-commerce app
+- 🧪 [codinganget](https://github.com/Kingkyori/codinganget): C++ practice & archive
+
+---
+
+## ✨ Stats & Badges
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingkyori&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingkyori&layout=compact&theme=radical)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kingkyori.Kingkyori)
+
+---
+
+## 📌 Fun Fact
+
+> Aku suka ngoding sambil dengerin lagu Jepang, dan senang ngedesain sesuatu yang simple tapi impactful 🌸
