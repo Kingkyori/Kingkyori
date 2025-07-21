@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/FIGMA-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
 ### 📌 Projects (with a pixel spark!)
 
